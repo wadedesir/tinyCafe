@@ -22,10 +22,8 @@
 			<h1 class="text-center">What can I get for you?</h1>
 
 			<div class="row justify-content-center mt-4">
-			<form class="orders form-group w-50" action="/orders" method="post">
+			<form class="orders form-group w-60" action="/orders" method="post">
 				<div class="input-group mb-3">
-				  <!-- <input type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="basic-addon2"> -->
-
 					<input class="form-control" type="text" name="order" placeholder="order" aria-describedby="basic-addon2">
 					<input class="form-control" type="text" name="name" placeholder="name" aria-describedby="basic-addon2">
 				  <div class="input-group-append">
@@ -36,7 +34,7 @@
 			</div>
 
 			<div class="row justify-content-around mt-6">
-				<section class="currentOrders col-4">
+				<section class="currentOrders col-6">
 					<div class="card border-info">
 					  <div class="card-body text-dark">
 					    <h2 class="card-title">Orders In-Progress</h2>
@@ -54,7 +52,7 @@
 					</div>
 				</section>
 
-				<section class="completeOrders col-4">
+				<section class="completeOrders col-6">
 					<div class="card border-info">
 						<div class="card-body text-dark">
 							<h2 class="card-title">Order Ready!</h2>
