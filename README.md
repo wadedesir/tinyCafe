@@ -4,7 +4,7 @@ Simple web based barista simulation. Takes your order and allows it to be comple
 
 Check it out: https://tinycafe.herokuapp.com/
 
-![Website thumbnail](https://raw.githubusercontent.com/wadedesir/tinycafe/main/thumbnail.PNG)
+![Website thumbnail](https://raw.githubusercontent.com/wadedesir/tinycafe/main/thumbnail.png)
 
 ## How It's Made:
 
