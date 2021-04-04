@@ -1,12 +1,12 @@
-# [Project Name]
+# Tiny Cafe
 
-![(description)](https://raw.githubusercontent.com/your github username/repo name/main/file name.PNG)
+![Website thumbnail](https://raw.githubusercontent.com/wadedesir/barista/main/thumbnail.PNG)
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Node.js
+**Tech used:** HTML, CSS, JavaScript, Node.js, Bootstrap
 
-[about]
+This was a small web app created to simply take a user's order,  add it to a database, and allow it to be completed by a barista that is logged in on the server.
 
 ## Installation
 
